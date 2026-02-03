@@ -77,7 +77,7 @@ cv:
 
 
 
-    Achievements:
+    Awards:
       - title: Finalist, Robert J. Melosh Medal
         date: 2022-10-01
         awarder: Duke University
@@ -96,26 +96,6 @@ cv:
         location: Leiden, The Netherlands
         summary: "Delivered a workshop talk about attention score analysis to reveal structure-property relationships in covalent organic frameworks."
 
-    Research Advising:
-      - name: Pawel Wiatrzyk
-        topic: Generative modeling of covalent organic frameworks
-        level: Master Thesis
-        date: 2025
-
-      - name: Shivam Saini
-        topic: Kolmogorov-arnold networks for hyperelastic material laws
-        level: Master Thesis
-        date: 2025
-
-      - name: Julia Czarnecka
-        topic: Finite Element simulation of spinodoid metamaterials
-        level: Master Thesis
-        date: 2024
-
-      - name: Sikko van 't Sant
-        topic: Inverse-designed growth-based cellular metamaterials
-        level: Master Thesis
-        date: 2023
 
     Skills:
       - name: Programming
