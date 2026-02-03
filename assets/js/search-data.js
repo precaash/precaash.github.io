@@ -28,16 +28,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-started-as-a-postdoctoral-scientist-at-the-mechanics-amp-amp-materials-laboratory-at-eth-zürich",
+          title: 'Started as a Postdoctoral Scientist at the Mechanics &amp;amp;amp; Materials Laboratory at ETH...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-selected-as-the-finalist-for-the-robert-j-melosh-medal-at-duke-university-durham-north-carolina",
+          title: 'Selected as the finalist for the Robert J. Melosh Medal at Duke University,...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-successfully-defended-my-phd-thesis-at-delft-university-of-technology",
+          title: 'Successfully defended my PhD Thesis at Delft University of Technology.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
