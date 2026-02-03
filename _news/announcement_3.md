@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Started as a Postdoctoral Scientist at the Mechanics & Materials Laboratory at ETH Zürich.

@@ -126,14 +126,8 @@ cv:
       - name: English
         summary: "Fluent"
 
-      - name: French
-        summary: "Fluent"
-
-      - name: Dutch
-        summary: "Fluent"
-
       - name: Malayalam
-        summary: "Conversational"
+        summary: "Native"
 
     Interests:
       - name: Materials Science
@@ -148,4 +142,8 @@ cv:
           - Generative modeling
           - Physics-constrained learning
           - Interpretable AI
+        
+      - name: Basketball
+      - name: Hiking
+      - name: Gaming
 
