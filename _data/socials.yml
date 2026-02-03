@@ -6,6 +6,8 @@ email: tprakash@ethz.ch # your email address
 # inspirehep_id:  # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: xB6jRC8AAAAJ # your Google Scholar ID
+github_username: precaash # your GitHub username
+linkedin_username: prakash-thakolkaran-008068152 # your LinkedIn username
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
