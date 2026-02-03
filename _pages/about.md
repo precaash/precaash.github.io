@@ -7,7 +7,7 @@ subtitle: <a href='https://mm.ethz.ch/'>ETH Zürich</a>. Postdoctoral Researcher
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>LEE N205</p>
     <p>Leonhardstrasse 21</p>
@@ -22,13 +22,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I work at the intersection of machine learning and materials science, with a focus on designing, modeling, and understanding complex materials across scales. My research develops data-driven methods that respect physical laws and remain interpretable, even when data are scarce or experimentally incomplete. I have worked on inverse design of mechanical metamaterials, constitutive modeling from indirect experimental measurements, and generative models for molecules and polymers that account for chemical and physical constraints. Across these projects, my goal has been to use machine learning not as a black box, but as a tool for uncovering structure–property relationships and enabling reliable material design.
