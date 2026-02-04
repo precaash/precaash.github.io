@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully defended my PhD Thesis at Delft University of Technology.
+Successfully defended my PhD Thesis at the <a href="https://www.mech-mat.com/">Mechanics, Materials and Computing Group</a> at the <a href="https://www.tudelft.nl/en/me">Delft Univeristy of Technology</a>.

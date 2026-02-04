@@ -73,8 +73,6 @@ cv:
         highlights:
           - Mechanical design and prototyping of complex robotic gripper
           - Development of Raspberry Pi-based webcam monitoring system
-          - Description 2.
-
 
 
     Awards:
@@ -142,8 +140,9 @@ cv:
           - Generative modeling
           - Physics-constrained learning
           - Interpretable AI
-        
-      - name: Basketball
-      - name: Hiking
-      - name: Gaming
+      - name: Hobbies
+        keywords:
+          - Hiking
+          - Basketball
+          - Gaming
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Selected as the finalist for the Robert J. Melosh Medal at Duke University, Durham, North Carolina.
+Selected as the finalist for the <a href="https://cee.duke.edu/about/awards/melosh/">Robert J. Melosh Medal</a> at Duke University.
