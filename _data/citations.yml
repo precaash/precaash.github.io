@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-16'
 papers:
   xB6jRC8AAAAJ:IjCSPb-OGe4C:
-    citations: 12
+    citations: 13
     title: Artificial neural network supported design of a lattice-based artificial spinal disc for restoring patient-specific anisotropic behaviors
     year: '2023'
   xB6jRC8AAAAJ:LkGwnXOMwfcC:
-    citations: 7
-    title: 'Toward Sustainable Polymer Design: A Molecular Dynamics-Informed Machine Learning Approach for Vitrimers'
+    citations: 9
+    title: 'Toward sustainable polymer design: a molecular dynamics-informed machine learning approach for vitrimers'
     year: '2025'
   xB6jRC8AAAAJ:Se3iqnhoufwC:
     citations: 0
     title: Data-driven methods to design, model, and interpret complex materials across scales
     year: '2025'
   xB6jRC8AAAAJ:Tyk-4Ss8FVUC:
-    citations: 90
+    citations: 92
     title: 'Bayesian-EUCLID: Discovering hyperelastic material laws with uncertainties'
     year: '2022'
   xB6jRC8AAAAJ:WF5omc3nYNoC:
@@ -26,11 +26,11 @@ papers:
     title: Inverse-designed growth-based cellular metamaterials
     year: '2023'
   xB6jRC8AAAAJ:YsMSGLbcyi4C:
-    citations: 31
+    citations: 32
     title: Experiment-informed finite-strain inverse design of spinodal metamaterials
     year: '2025'
   xB6jRC8AAAAJ:_FxGoFyzp5QC:
-    citations: 22
+    citations: 24
     title: Can kan cans? input-convex kolmogorov-arnold networks (kans) as hyperelastic constitutive artificial neural networks (cans)
     year: '2025'
   xB6jRC8AAAAJ:d1gkVwhDpl0C:
@@ -42,10 +42,10 @@ papers:
     title: 'Piezoelectric truss metamaterials: data-driven design and additive manufacturing'
     year: '2025'
   xB6jRC8AAAAJ:ufrVoPGSRksC:
-    citations: 22
+    citations: 25
     title: "AI\u2010Guided Inverse Design and Discovery of Recyclable Vitrimeric Polymers"
     year: '2025'
   xB6jRC8AAAAJ:zYLM7Y9cAGgC:
-    citations: 173
+    citations: 177
     title: 'NN-EUCLID: Deep-learning hyperelasticity without stress data'
     year: '2022'
