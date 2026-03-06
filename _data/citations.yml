@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-03-06'
 papers:
   xB6jRC8AAAAJ:IjCSPb-OGe4C:
     citations: 13
     title: Artificial neural network supported design of a lattice-based artificial spinal disc for restoring patient-specific anisotropic behaviors
     year: '2023'
   xB6jRC8AAAAJ:LkGwnXOMwfcC:
-    citations: 9
+    citations: 10
     title: 'Toward sustainable polymer design: a molecular dynamics-informed machine learning approach for vitrimers'
     year: '2025'
   xB6jRC8AAAAJ:Se3iqnhoufwC:
@@ -14,7 +14,7 @@ papers:
     title: Data-driven methods to design, model, and interpret complex materials across scales
     year: '2025'
   xB6jRC8AAAAJ:Tyk-4Ss8FVUC:
-    citations: 92
+    citations: 93
     title: 'Bayesian-EUCLID: Discovering hyperelastic material laws with uncertainties'
     year: '2022'
   xB6jRC8AAAAJ:WF5omc3nYNoC:
@@ -22,15 +22,15 @@ papers:
     title: Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks
     year: '2025'
   xB6jRC8AAAAJ:Y0pCki6q_DkC:
-    citations: 42
+    citations: 43
     title: Inverse-designed growth-based cellular metamaterials
     year: '2023'
   xB6jRC8AAAAJ:YsMSGLbcyi4C:
-    citations: 32
+    citations: 33
     title: Experiment-informed finite-strain inverse design of spinodal metamaterials
     year: '2025'
   xB6jRC8AAAAJ:_FxGoFyzp5QC:
-    citations: 25
+    citations: 31
     title: Can kan cans? input-convex kolmogorov-arnold networks (kans) as hyperelastic constitutive artificial neural networks (cans)
     year: '2025'
   xB6jRC8AAAAJ:d1gkVwhDpl0C:
@@ -42,10 +42,10 @@ papers:
     title: 'Piezoelectric truss metamaterials: data-driven design and additive manufacturing'
     year: '2025'
   xB6jRC8AAAAJ:ufrVoPGSRksC:
-    citations: 26
+    citations: 27
     title: "AI\u2010Guided Inverse Design and Discovery of Recyclable Vitrimeric Polymers"
     year: '2025'
   xB6jRC8AAAAJ:zYLM7Y9cAGgC:
-    citations: 177
+    citations: 183
     title: 'NN-EUCLID: Deep-learning hyperelasticity without stress data'
     year: '2022'
