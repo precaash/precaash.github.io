@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-25'
 papers:
   xB6jRC8AAAAJ:IjCSPb-OGe4C:
     citations: 13
@@ -14,7 +14,7 @@ papers:
     title: Data-driven methods to design, model, and interpret complex materials across scales
     year: '2025'
   xB6jRC8AAAAJ:Tyk-4Ss8FVUC:
-    citations: 93
+    citations: 94
     title: 'Bayesian-EUCLID: Discovering hyperelastic material laws with uncertainties'
     year: '2022'
   xB6jRC8AAAAJ:WF5omc3nYNoC:
@@ -22,15 +22,15 @@ papers:
     title: Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks
     year: '2025'
   xB6jRC8AAAAJ:Y0pCki6q_DkC:
-    citations: 43
+    citations: 44
     title: Inverse-designed growth-based cellular metamaterials
     year: '2023'
   xB6jRC8AAAAJ:YsMSGLbcyi4C:
-    citations: 33
+    citations: 34
     title: Experiment-informed finite-strain inverse design of spinodal metamaterials
     year: '2025'
   xB6jRC8AAAAJ:_FxGoFyzp5QC:
-    citations: 31
+    citations: 33
     title: Can kan cans? input-convex kolmogorov-arnold networks (kans) as hyperelastic constitutive artificial neural networks (cans)
     year: '2025'
   xB6jRC8AAAAJ:d1gkVwhDpl0C:
@@ -38,7 +38,7 @@ papers:
     title: 3D fabrication of fully iron magnetic microrobots
     year: '2019'
   xB6jRC8AAAAJ:roLk4NBRz8UC:
-    citations: 2
+    citations: 3
     title: 'Piezoelectric truss metamaterials: data-driven design and additive manufacturing'
     year: '2025'
   xB6jRC8AAAAJ:ufrVoPGSRksC:
@@ -46,6 +46,6 @@ papers:
     title: "AI\u2010Guided Inverse Design and Discovery of Recyclable Vitrimeric Polymers"
     year: '2025'
   xB6jRC8AAAAJ:zYLM7Y9cAGgC:
-    citations: 183
+    citations: 187
     title: 'NN-EUCLID: Deep-learning hyperelasticity without stress data'
     year: '2022'
