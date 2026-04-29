@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-04-29'
 papers:
   xB6jRC8AAAAJ:IjCSPb-OGe4C:
     citations: 13
@@ -14,7 +14,7 @@ papers:
     title: Data-driven methods to design, model, and interpret complex materials across scales
     year: '2025'
   xB6jRC8AAAAJ:Tyk-4Ss8FVUC:
-    citations: 100
+    citations: 101
     title: 'Bayesian-EUCLID: Discovering hyperelastic material laws with uncertainties'
     year: '2022'
   xB6jRC8AAAAJ:WF5omc3nYNoC:
@@ -22,11 +22,11 @@ papers:
     title: Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks
     year: '2025'
   xB6jRC8AAAAJ:Y0pCki6q_DkC:
-    citations: 45
+    citations: 46
     title: Inverse-designed growth-based cellular metamaterials
     year: '2023'
   xB6jRC8AAAAJ:YsMSGLbcyi4C:
-    citations: 36
+    citations: 37
     title: Experiment-informed finite-strain inverse design of spinodal metamaterials
     year: '2025'
   xB6jRC8AAAAJ:_FxGoFyzp5QC:
@@ -42,10 +42,10 @@ papers:
     title: 'Piezoelectric truss metamaterials: data-driven design and additive manufacturing'
     year: '2025'
   xB6jRC8AAAAJ:ufrVoPGSRksC:
-    citations: 28
+    citations: 29
     title: "AI\u2010Guided Inverse Design and Discovery of Recyclable Vitrimeric Polymers"
     year: '2025'
   xB6jRC8AAAAJ:zYLM7Y9cAGgC:
-    citations: 194
+    citations: 196
     title: 'NN-EUCLID: Deep-learning hyperelasticity without stress data'
     year: '2022'
