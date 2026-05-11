@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-11'
 papers:
   xB6jRC8AAAAJ:IjCSPb-OGe4C:
     citations: 14
@@ -26,7 +26,7 @@ papers:
     title: Inverse-designed growth-based cellular metamaterials
     year: '2023'
   xB6jRC8AAAAJ:YsMSGLbcyi4C:
-    citations: 38
+    citations: 39
     title: Experiment-informed finite-strain inverse design of spinodal metamaterials
     year: '2025'
   xB6jRC8AAAAJ:_FxGoFyzp5QC:
@@ -38,7 +38,7 @@ papers:
     title: 3D fabrication of fully iron magnetic microrobots
     year: '2019'
   xB6jRC8AAAAJ:roLk4NBRz8UC:
-    citations: 4
+    citations: 6
     title: 'Piezoelectric truss metamaterials: data-driven design and additive manufacturing'
     year: '2025'
   xB6jRC8AAAAJ:ufrVoPGSRksC:
