@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-03'
 papers:
   xB6jRC8AAAAJ:IjCSPb-OGe4C:
-    citations: 14
+    citations: 13
     title: Artificial neural network supported design of a lattice-based artificial spinal disc for restoring patient-specific anisotropic behaviors
     year: '2023'
   xB6jRC8AAAAJ:LkGwnXOMwfcC:
-    citations: 16
+    citations: 17
     title: 'Toward sustainable polymer design: a molecular dynamics-informed machine learning approach for vitrimers'
     year: '2025'
   xB6jRC8AAAAJ:Se3iqnhoufwC:
@@ -14,7 +14,7 @@ papers:
     title: Data-driven methods to design, model, and interpret complex materials across scales
     year: '2025'
   xB6jRC8AAAAJ:Tyk-4Ss8FVUC:
-    citations: 114
+    citations: 113
     title: 'Bayesian-EUCLID: Discovering hyperelastic material laws with uncertainties'
     year: '2022'
   xB6jRC8AAAAJ:WF5omc3nYNoC:
@@ -26,7 +26,7 @@ papers:
     title: Inverse-designed growth-based cellular metamaterials
     year: '2023'
   xB6jRC8AAAAJ:YsMSGLbcyi4C:
-    citations: 46
+    citations: 44
     title: Experiment-informed finite-strain inverse design of spinodal metamaterials
     year: '2025'
   xB6jRC8AAAAJ:_FxGoFyzp5QC:
@@ -34,7 +34,7 @@ papers:
     title: Can kan cans? input-convex kolmogorov-arnold networks (kans) as hyperelastic constitutive artificial neural networks (cans)
     year: '2025'
   xB6jRC8AAAAJ:d1gkVwhDpl0C:
-    citations: 134
+    citations: 136
     title: 3D fabrication of fully iron magnetic microrobots
     year: '2019'
   xB6jRC8AAAAJ:roLk4NBRz8UC:
@@ -42,10 +42,10 @@ papers:
     title: 'Piezoelectric truss metamaterials: data-driven design and additive manufacturing'
     year: '2025'
   xB6jRC8AAAAJ:ufrVoPGSRksC:
-    citations: 39
-    title: "AI\u2010Guided Inverse Design and Discovery of Recyclable Vitrimeric Polymers"
+    citations: 40
+    title: "AI\u2010guided inverse design and discovery of recyclable vitrimeric polymers"
     year: '2025'
   xB6jRC8AAAAJ:zYLM7Y9cAGgC:
-    citations: 215
+    citations: 213
     title: 'NN-EUCLID: Deep-learning hyperelasticity without stress data'
     year: '2022'
