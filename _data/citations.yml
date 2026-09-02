@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-09-02'
 papers:
   xB6jRC8AAAAJ:IjCSPb-OGe4C:
     citations: 13
@@ -14,7 +14,7 @@ papers:
     title: Data-driven methods to design, model, and interpret complex materials across scales
     year: '2025'
   xB6jRC8AAAAJ:Tyk-4Ss8FVUC:
-    citations: 116
+    citations: 117
     title: 'Bayesian-EUCLID: Discovering hyperelastic material laws with uncertainties'
     year: '2022'
   xB6jRC8AAAAJ:WF5omc3nYNoC:
@@ -30,13 +30,17 @@ papers:
     title: Experiment-informed finite-strain inverse design of spinodal metamaterials
     year: '2025'
   xB6jRC8AAAAJ:_FxGoFyzp5QC:
-    citations: 56
+    citations: 57
     title: Can kan cans? input-convex kolmogorov-arnold networks (kans) as hyperelastic constitutive artificial neural networks (cans)
     year: '2025'
   xB6jRC8AAAAJ:d1gkVwhDpl0C:
     citations: 137
     title: 3D fabrication of fully iron magnetic microrobots
     year: '2019'
+  xB6jRC8AAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: Tunable anisotropy in piezoelectric truss metamaterials via data-driven design and 3-D Printing
+    year: '2026'
   xB6jRC8AAAAJ:roLk4NBRz8UC:
     citations: 10
     title: 'Piezoelectric truss metamaterials: data-driven design and additive manufacturing'
@@ -46,6 +50,6 @@ papers:
     title: "AI\u2010guided inverse design and discovery of recyclable vitrimeric polymers"
     year: '2025'
   xB6jRC8AAAAJ:zYLM7Y9cAGgC:
-    citations: 219
+    citations: 222
     title: 'NN-EUCLID: Deep-learning hyperelasticity without stress data'
     year: '2022'
